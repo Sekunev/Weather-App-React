@@ -1,6 +1,6 @@
 # Weather App
 
-### Check The Live Website ➡️ [Live Website](https://sekunev-random-user-app-v2.netlify.app/)
+### Check The Live Website ➡️ [Live Website](https://sekunev-weather-app.netlify.app/)
 
 ### Description
 
@@ -8,7 +8,7 @@ Project aims to create a Weather App.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Random-User-V/blob/main/src/Animation.gif)
+![image](https://github.com/Sekunev/Weather-App-React/blob/main/src/Animation.gif)
 
 ### Project Skeleton
 
