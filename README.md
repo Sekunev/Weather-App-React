@@ -35,4 +35,4 @@ SOLUTION
 
 ### Used in this project
 
-👉 I mastered ReactJS (axios, useState, Props, Style, Useeffect, Postman), HTML, CSS, SCSS, Bootstrap and Javascript features in this project. You can see the visual representation of the website above.
+👉 I mastered ReactJS (axios, useState, Props, Style, Useeffect, Postman), HTML, CSS, Bootstrap and Javascript features in this project. You can see the visual representation of the website above.
